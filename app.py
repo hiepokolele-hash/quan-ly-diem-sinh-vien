@@ -105,4 +105,4 @@ st.pyplot(fig)
 plt.close(fig)
 
 # 9. Thông tin người tạo
-st.caption("Người tạo: [Họ tên của bạn] - MSSV: [042207005312]")
+st.caption("Người tạo: [Nguyễn Hoàng Hiệp] - MSSV: [042207005312]")
