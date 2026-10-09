@@ -73,7 +73,7 @@ st.write(
 st.write(f"Số sinh viên đạt từ 5 điểm: **{so_sv_dat}**")
 
 # 7. Chọn sinh viên
-st.subheader("Tra cứu điểm sinh viên")
+st.subheader("Tra điểm sinh viên")
 
 ten_sv = st.selectbox(
     "Chọn một sinh viên:",
